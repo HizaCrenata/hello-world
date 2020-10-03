@@ -1,2 +1,6 @@
 # hello-world
 Basic Repository
+
+
+IF OTHER CAN DO IT, LET THEM DO IT.
+LIVE YOU LIFE TO THE FULLEST.
